@@ -19,10 +19,15 @@ If you just want to see the final deep fakes you can go to <i>"Deep fake Results
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#server-application">Server Application</a></li>
-        <li><a href="#android-application">Android application</a></li>
+        <li><a href="#android-application">Android Application</a></li>
       </ul>
     </li>
-    <li><a href="#results">Results</a></li>
+    <li><a href="#results">Results</a>
+    <ul>
+        <li><a href="#deep-fake-result-done-with-the-fast-module">FAST Result</a></li>
+        <li><a href="#deep-fake-result-done-with-the-hd-module">HD Result</a></li>
+      </ul>
+    </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contacts">Contacts</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -95,11 +100,11 @@ Run the app on your Android smartphone and try it.
 The result is shown directly in the Andoird application (where there is also the possibility to save it in the gallery), but is also saved inside the <i>server_application/final_results</i> on server side.
 Here there are two examples of deep fake generated, if you want to see more look inside the <i>"Deep fake Results" </i> folder.
   
-### Deep fake result done with the FAST module:
+### Deep fake result done with the FAST module
 https://github.com/Matteozara/Why_Dont_you_Speak2.0/assets/74371691/821dd8b9-8e22-4528-a309-dc7c7c4ba0c9
 
 
-### Deep fake result done with the HD module:
+### Deep fake result done with the HD module
 https://github.com/Matteozara/Why_Dont_you_Speak2.0/assets/74371691/9ce4c354-a6d2-4a3c-ad6d-e60c18be66b5
 
 
