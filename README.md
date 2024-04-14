@@ -94,10 +94,15 @@ Run the app on your Android smartphone and try it.
 ## Results
 The result is shown directly in the Andoird application (where there is also the possibility to save it in the gallery), but is also saved inside the <i>server_application/final_results</i> on server side.
 Here there are two examples of deep fake generated, if you want to see more look inside the <i>"Deep fake Results" </i> folder.
-
-<!--> HERE <--->
-
   
+### Deep fake result done with the FAST module:
+https://github.com/Matteozara/Why_Dont_you_Speak2.0/assets/74371691/821dd8b9-8e22-4528-a309-dc7c7c4ba0c9
+
+
+### Deep fake result done with the HD module:
+https://github.com/Matteozara/Why_Dont_you_Speak2.0/assets/74371691/9ce4c354-a6d2-4a3c-ad6d-e60c18be66b5
+
+
 <br>
 <br>
 
