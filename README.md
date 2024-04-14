@@ -1,9 +1,5 @@
 # Why don’t you speak? (WDyS)
-This repo contains an imporved version of WDyS presented in: "Why don’t you speak?: a smartphone application to engage
-museum visitors through Deepfake of statues" (<a href="https://dl.acm.org/doi/10.1145/3607542.3617359">paper</a>). I strongly suggest to watch that repository to better understand how the application works (<a href="https://github.com/Matteozara/Why_dont_you_speak/tree/master">git repo</a>)
-<br>
-<br>
-This is the implementation of the paper "TITLETITLE"
+This is the implementation of the paper "Why Don't You Speak? 2.0: An enhanced smartphone application to engage museum visitors through Deepfakes creation"
 <br>
 The paper present two different implementations, one FAST to generate video pseudo live (WDyS_FAST) and one to generate video of high quality (WDyS_HD).
 <br>
